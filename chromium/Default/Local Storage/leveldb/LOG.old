@@ -1,0 +1,10 @@
+2022/10/14-13:16:56.706 3 Reusing MANIFEST /home/p4imon/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2022/10/14-13:16:56.708 3 Recovering log #19
+2022/10/14-13:16:56.712 3 Level-0 table #23: started
+2022/10/14-13:16:56.742 3 Level-0 table #23: 307132 bytes OK
+2022/10/14-13:16:56.744 3 Recovering log #23
+2022/10/14-13:16:56.748 3 Reusing old log /home/p4imon/.config/chromium/Default/Local Storage/leveldb/000023.log 
+2022/10/14-13:16:56.757 3 Delete type=0 #19
+2022/10/14-13:29:57.937 c Level-0 table #25: started
+2022/10/14-13:29:57.957 c Level-0 table #25: 54072 bytes OK
+2022/10/14-13:29:57.964 c Delete type=0 #23

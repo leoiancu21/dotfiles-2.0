@@ -1,0 +1,10 @@
+[2022-10-07 18:57:33.960] [exthost] [info] Extension host with pid 31520 started
+[2022-10-07 18:57:33.960] [exthost] [info] Skipping acquiring lock for /home/p4imon/.config/Code - OSS/User/workspaceStorage/607fafe745b69dc91b475181d58f0f6f.
+[2022-10-07 18:57:34.976] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-07 18:57:34.988] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-10-07 18:57:34.995] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-07 18:57:35.736] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-10-07 18:57:35.853] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-07 18:57:37.075] [exthost] [info] Eager extensions activated
+[2022-10-07 18:57:37.622] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-07 18:57:37.650] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'

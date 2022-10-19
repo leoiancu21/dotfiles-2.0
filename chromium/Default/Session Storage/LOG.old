@@ -1,0 +1,20 @@
+2022/10/14-13:16:56.888 3 Reusing MANIFEST /home/p4imon/.config/chromium/Default/Session Storage/MANIFEST-000001
+2022/10/14-13:16:56.893 3 Recovering log #12
+2022/10/14-13:16:56.893 3 Level-0 table #14: started
+2022/10/14-13:16:56.915 3 Level-0 table #14: 21794 bytes OK
+2022/10/14-13:16:56.924 3 Delete type=0 #12
+2022/10/14-13:29:14.582 a Level-0 table #17: started
+2022/10/14-13:29:14.601 a Level-0 table #17: 33347 bytes OK
+2022/10/14-13:29:14.620 a Delete type=0 #15
+2022/10/14-13:29:14.623 a Compacting 4@0 + 1@1 files
+2022/10/14-13:29:14.644 a Generated table #18@0: 588 keys, 45054 bytes
+2022/10/14-13:29:14.644 a Compacted 4@0 + 1@1 files => 45054 bytes
+2022/10/14-13:29:14.651 a compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/10/14-13:29:14.656 a Delete type=2 #7
+2022/10/14-13:29:14.656 a Delete type=2 #12
+2022/10/14-13:29:14.657 a Delete type=2 #17
+2022/10/14-13:29:14.657 a Delete type=2 #10
+2022/10/14-13:29:14.657 a Delete type=2 #14
+2022/10/14-13:29:17.205 c Level-0 table #20: started
+2022/10/14-13:29:17.225 c Level-0 table #20: 32935 bytes OK
+2022/10/14-13:29:17.260 c Delete type=0 #16

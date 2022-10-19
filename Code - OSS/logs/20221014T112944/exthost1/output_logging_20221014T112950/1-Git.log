@@ -1,0 +1,36 @@
+[2022-10-14T09:29:51.753Z] Log level: Info
+[2022-10-14T09:29:51.761Z] [info] Validating found git in: git
+[2022-10-14T09:29:51.806Z] [info] Using git 2.38.0 from git
+[2022-10-14T09:29:51.861Z] > git rev-parse --show-toplevel [14ms]
+[2022-10-14T09:29:51.861Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-14T09:29:51.891Z] > git rev-parse --show-toplevel [8ms]
+[2022-10-14T09:29:51.906Z] > git rev-parse --git-dir --git-common-dir [4ms]
+[2022-10-14T09:29:51.924Z] [info] Open repository: /home/p4imon/Documents/Code/LeakScraper
+[2022-10-14T09:29:51.975Z] > git rev-parse --show-toplevel [6ms]
+[2022-10-14T09:29:51.975Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-14T09:29:51.994Z] > git status -z -uall [52ms]
+[2022-10-14T09:29:52.007Z] > git rev-parse --show-toplevel [17ms]
+[2022-10-14T09:29:52.008Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-14T09:29:52.020Z] > git symbolic-ref --short HEAD [14ms]
+[2022-10-14T09:29:52.031Z] > git rev-parse --show-toplevel [14ms]
+[2022-10-14T09:29:52.031Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-14T09:29:52.043Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [14ms]
+[2022-10-14T09:29:52.070Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [12ms]
+[2022-10-14T09:29:52.071Z] > git rev-parse --show-toplevel [31ms]
+[2022-10-14T09:29:52.071Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-14T09:29:52.076Z] > git remote --verbose [10ms]
+[2022-10-14T09:29:52.109Z] > git config --get commit.template [10ms]
+[2022-10-14T09:29:52.130Z] > git status -z -uall [4ms]
+[2022-10-14T09:29:52.144Z] > git symbolic-ref --short HEAD [4ms]
+[2022-10-14T09:29:52.157Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+[2022-10-14T09:29:52.191Z] > git remote --verbose [6ms]
+[2022-10-14T09:29:52.192Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [17ms]
+[2022-10-14T09:29:52.207Z] > git config --get commit.template [3ms]
+[2022-10-14T09:29:52.618Z] > git show --textconv :Script.py [14ms]
+[2022-10-14T09:29:52.623Z] > git ls-files --stage -- /home/p4imon/Documents/Code/LeakScraper/Script.py [7ms]
+[2022-10-14T09:29:52.639Z] > git cat-file -s 967311fb9bfd8dfdccc25aa2658026b480c37898 [4ms]
+[2022-10-14T09:29:52.904Z] > git check-ignore -v -z --stdin [4ms]
+[2022-10-14T09:29:53.212Z] > git rev-parse --show-toplevel [3ms]
+[2022-10-14T09:29:53.212Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-14T09:30:17.872Z] > git rev-parse --show-toplevel [6ms]
+[2022-10-14T09:30:17.872Z] fatal: not a git repository (or any of the parent directories): .git

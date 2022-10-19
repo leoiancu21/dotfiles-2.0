@@ -1,0 +1,7 @@
+2022/10/11-00:10:05.646 146a1 Reusing MANIFEST /home/p4imon/.config/chromium/Default/IndexedDB/https_mega.nz_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/11-00:10:05.646 146a1 Recovering log #3
+2022/10/11-00:10:05.647 146a1 Reusing old log /home/p4imon/.config/chromium/Default/IndexedDB/https_mega.nz_0.indexeddb.leveldb/000003.log 
+2022/10/11-00:10:38.172 146a1 Level-0 table #5: started
+2022/10/11-00:10:38.181 146a1 Level-0 table #5: 39349 bytes OK
+2022/10/11-00:10:38.189 146a1 Delete type=0 #3
+2022/10/11-00:10:38.190 15cd1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

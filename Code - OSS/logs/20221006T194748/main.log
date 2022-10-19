@@ -1,0 +1,10 @@
+[2022-10-06 19:47:48.972] [main] [error] [uncaught exception in main]: Error: Unable to retrieve mac address (unexpected format)
+[2022-10-06 19:47:48.972] [main] [error] Error: Unable to retrieve mac address (unexpected format)
+    at R (/usr/lib/code/out/vs/code/electron-main/main.js:16:47813)
+    at m (/usr/lib/code/out/vs/code/electron-main/main.js:21:38958)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /usr/lib/code/out/vs/code/electron-main/main.js:21:38816
+[2022-10-06 19:47:49.126] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-10-06 19:47:52.143] [main] [info] Starting extension host with pid 6025 (fork() took 21 ms).
+[2022-10-06 19:48:34.256] [main] [info] Extension host with pid 6025 exited with code: 0, signal: null.
+[2022-10-06 19:48:36.926] [main] [info] Starting extension host with pid 6123 (fork() took 21 ms).

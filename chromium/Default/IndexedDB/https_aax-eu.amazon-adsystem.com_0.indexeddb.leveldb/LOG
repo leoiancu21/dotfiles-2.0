@@ -1,0 +1,6 @@
+2022/10/05-23:46:52.127 12f0 Creating DB /home/p4imon/.config/chromium/Default/IndexedDB/https_aax-eu.amazon-adsystem.com_0.indexeddb.leveldb since it was missing.
+2022/10/05-23:46:52.138 12f0 Reusing MANIFEST /home/p4imon/.config/chromium/Default/IndexedDB/https_aax-eu.amazon-adsystem.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/06-00:32:07.544 172f Level-0 table #5: started
+2022/10/06-00:32:07.549 172f Level-0 table #5: 403 bytes OK
+2022/10/06-00:32:07.553 172f Delete type=0 #3
+2022/10/06-00:32:07.554 172f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
