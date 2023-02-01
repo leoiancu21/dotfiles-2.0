@@ -7,7 +7,7 @@
 
 function hide() {
 	
-	if [[ "${RICETHEME}" == @(emilia|jan|aline|cynthia|silvia|pamela) ]]; then
+	if [[ "${RICETHEME}" == @(gaia|batphomet|aline|cynthia|silvia|pamela) ]]; then
 		polybar-msg cmd hide | bspc config top_padding 5
 		
 	elif [[ "${RICETHEME}" == @(isabel|cristina) ]]; then
@@ -29,7 +29,7 @@ function hide() {
 
 function unhide() {
 	
-	if [[ "${RICETHEME}" == @(emilia|jan) ]]; then
+	if [[ "${RICETHEME}" == @(gaia|batphomet) ]]; then
 		polybar-msg cmd show | bspc config top_padding 60
 		
 	elif [[ "${RICETHEME}" == aline ]]; then

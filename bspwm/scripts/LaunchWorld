@@ -15,7 +15,7 @@ function launch() {
 }
 
 function WallChanger() {
-	feh --no-fehbg --bg-fill /home/p4imon/.config/bspwm/rices/emilia/wall-04.webp
+	feh --randomize --no-fehbg --bg-fill ~/.config/bspwm/rices/$RICETHEME/walls/
 }
 
 function killeww() {
@@ -57,7 +57,7 @@ function SetGirlFriendRice() {
 	
 	case $RICETHEME in
 	
-		emilia)
+		gaia)
 		
 		  SetBspwmConf 0 60 5 "#202132" "#202132" "#202132" "#070219" 5 5
 		  		  
@@ -67,7 +67,7 @@ function SetGirlFriendRice() {
 		  
 		  ;;
 			
-		jan)
+		batphomet)
 		
 		  SetBspwmConf 0 60 5 "#4C3A6D" "#4C3A6D" "#785DA5" "#070219" 5 5
 		  

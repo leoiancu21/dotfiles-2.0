@@ -28,7 +28,12 @@ super + h
 #unhide
 super + u 
 		hu-polybar -u
-		     
+# Brightness control 
+XF86MonBrightness{Up,Down}  
+  brightnessctl s 10{+,-}
+	
+
+
 # screenshoots
 super + Print
         screenshoter

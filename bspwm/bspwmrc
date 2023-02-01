@@ -22,13 +22,13 @@ workspaces() {
 		let name++
 	done
 }
-
+ 
 workspaces
 
 bspc wm --adopt-orphans	
 
 ########### Launch The Rice!!
-
+ 
 source LaunchWorld
 SetGirlFriendRice
 AutoStartApps
@@ -37,7 +37,7 @@ AutoStartApps
 
 bspc config external_rules_command ~/.config/bspwm/scripts/external_rules
 bspc config window_gap                    8 
-
+ 
 bspc config single_monocle                true
 bspc config split_ratio                   0.5
 bspc config borderless_monocle            false
